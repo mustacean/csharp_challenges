@@ -1,0 +1,11 @@
+/home/mca/Desktop/c#_challenge/strings/bin/Debug/netcoreapp2.1/strings.deps.json
+/home/mca/Desktop/c#_challenge/strings/bin/Debug/netcoreapp2.1/strings.runtimeconfig.json
+/home/mca/Desktop/c#_challenge/strings/bin/Debug/netcoreapp2.1/strings.runtimeconfig.dev.json
+/home/mca/Desktop/c#_challenge/strings/bin/Debug/netcoreapp2.1/strings.dll
+/home/mca/Desktop/c#_challenge/strings/bin/Debug/netcoreapp2.1/strings.pdb
+/home/mca/Desktop/c#_challenge/strings/obj/Debug/netcoreapp2.1/strings.csprojAssemblyReference.cache
+/home/mca/Desktop/c#_challenge/strings/obj/Debug/netcoreapp2.1/strings.csproj.CoreCompileInputs.cache
+/home/mca/Desktop/c#_challenge/strings/obj/Debug/netcoreapp2.1/strings.AssemblyInfoInputs.cache
+/home/mca/Desktop/c#_challenge/strings/obj/Debug/netcoreapp2.1/strings.AssemblyInfo.cs
+/home/mca/Desktop/c#_challenge/strings/obj/Debug/netcoreapp2.1/strings.dll
+/home/mca/Desktop/c#_challenge/strings/obj/Debug/netcoreapp2.1/strings.pdb

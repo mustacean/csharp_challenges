@@ -1,0 +1,11 @@
+/home/mca/Desktop/c#_challenge/files_directories/bin/Debug/netcoreapp2.1/files_directories.deps.json
+/home/mca/Desktop/c#_challenge/files_directories/bin/Debug/netcoreapp2.1/files_directories.runtimeconfig.json
+/home/mca/Desktop/c#_challenge/files_directories/bin/Debug/netcoreapp2.1/files_directories.runtimeconfig.dev.json
+/home/mca/Desktop/c#_challenge/files_directories/bin/Debug/netcoreapp2.1/files_directories.dll
+/home/mca/Desktop/c#_challenge/files_directories/bin/Debug/netcoreapp2.1/files_directories.pdb
+/home/mca/Desktop/c#_challenge/files_directories/obj/Debug/netcoreapp2.1/files_directories.csprojAssemblyReference.cache
+/home/mca/Desktop/c#_challenge/files_directories/obj/Debug/netcoreapp2.1/files_directories.csproj.CoreCompileInputs.cache
+/home/mca/Desktop/c#_challenge/files_directories/obj/Debug/netcoreapp2.1/files_directories.AssemblyInfoInputs.cache
+/home/mca/Desktop/c#_challenge/files_directories/obj/Debug/netcoreapp2.1/files_directories.AssemblyInfo.cs
+/home/mca/Desktop/c#_challenge/files_directories/obj/Debug/netcoreapp2.1/files_directories.dll
+/home/mca/Desktop/c#_challenge/files_directories/obj/Debug/netcoreapp2.1/files_directories.pdb

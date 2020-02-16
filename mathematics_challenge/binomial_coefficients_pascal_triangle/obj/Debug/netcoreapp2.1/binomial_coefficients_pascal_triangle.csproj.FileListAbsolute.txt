@@ -1,0 +1,11 @@
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/bin/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.deps.json
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/bin/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.runtimeconfig.json
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/bin/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.runtimeconfig.dev.json
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/bin/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.dll
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/bin/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.pdb
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/obj/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.csprojAssemblyReference.cache
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/obj/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.csproj.CoreCompileInputs.cache
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/obj/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.AssemblyInfoInputs.cache
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/obj/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.AssemblyInfo.cs
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/obj/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.dll
+/home/mca/Desktop/c#_challenge/mathematics/binomial_coefficients_pascal_triangle/obj/Debug/netcoreapp2.1/binomial_coefficients_pascal_triangle.pdb
