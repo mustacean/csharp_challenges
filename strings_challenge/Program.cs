@@ -1,15 +1,6 @@
-﻿using System;
-
-namespace strings
+class Program
 {
-    class Program
-    {
         static void Main (string[] args)
-        {
-            
-        }
-
-        static void TestPalindromic ()
         {
             while (true)
             {
@@ -17,5 +8,4 @@ namespace strings
                 System.Console.WriteLine ("longest palandromic in the text : " + Console.ReadLine ().LongestPalindromic ());
             }
         }
-    }
 }
