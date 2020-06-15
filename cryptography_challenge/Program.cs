@@ -4,11 +4,6 @@ namespace cryptography
 {
     class Program
     {
-        static void Main (string[] args)
-        {
-            
-        }
-
         static void TestFermat ()
         {
             var biggy = new System.Numerics.BigInteger (131);
